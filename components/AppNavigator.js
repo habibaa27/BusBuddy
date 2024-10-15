@@ -1,7 +1,4 @@
 
-
-
-// // components/AppNavigator.js
 import * as React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import { HomeScreen } from './HomeScreen.js';
