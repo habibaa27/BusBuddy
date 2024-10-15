@@ -58,10 +58,10 @@ const styles = StyleSheet.create({
     fontSize: 30,
     fontWeight: 'bold',
     textAlign: 'center',
-    marginBottom: 20,
+    marginBottom: 22,
   },
   card: {
-    padding: 20,
+    padding: 22,
     marginBottom: 20,
   },
   infoContainer: {
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   button: {
-    backgroundColor: '#6BC5E8',
+    backgroundColor: 'yellow',
     borderRadius: 8,
     padding: 10,
     alignItems: 'center',
